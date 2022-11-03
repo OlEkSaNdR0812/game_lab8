@@ -1,0 +1,65 @@
+.labels{
+	display:block;
+	margin-bottom:0.25rem;
+	font-size:2rem;
+}
+.inputs{
+	display:block;
+	width:90%;
+	background-color:#98FB98;
+	height: calc(2.5rem+2px);
+	margin-bottom:0.1rem;
+	font-size:1.4rem;
+}
+#wrapper{
+	display:flex;
+	flex-direction:column;
+	margin: 0 auto;
+	width:80%;
+	align-items:center;
+}
+submits{
+	display:flex;
+	align-items:center;
+	flex-direction:column;
+}
+button{
+	background-color:#000080;
+	color:white;
+	padding:2% 4%;
+	margin: 4px 2px;
+	font-size:1.5vw;
+	text-align: center;
+}
+.side{
+	display:flex;
+	align-items:center;
+	flex-direction:column;
+	width:30%;
+	height:500px;
+}
+#generate_side{
+	display:flex;
+	justify-content:center;}
+.randomNumber{
+	display:flex;
+	width:50%;
+	border-radius:5px;
+	background-color:#00FFFF;
+	align-items:center;
+	justify-content:center;
+	font-size:30px;
+	
+}
+.box{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	width:10rem;
+	height:10em;
+	border:2px solid black;
+	border-radius:5px;
+	background: #4169E1;
+    margin-top:20px;
+	font-size:20px;
+	}
